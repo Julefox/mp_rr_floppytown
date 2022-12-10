@@ -1,0 +1,7 @@
+
+## Ignored files
+*.vpk
+*.bsp
+*.exe
+*.dll
+*.rpak

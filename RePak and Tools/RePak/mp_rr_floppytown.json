@@ -1,0 +1,18 @@
+{
+  "$mapversion": 1,
+  "version": 8,
+  "keepDevOnly": true,
+
+  "starpakPath": "paks/Win64/pc_all.sdk.starpak",
+
+  "assetsDir": ".\\assets\\",
+  "outputDir": "F:/Github/mp_rr_floppytown/paks/Win64",
+  "name": "mp_rr_floppytown",
+
+  "files": [
+    {
+      "$type": "dtbl",
+      "path": "datatable/mp_rr_floppytown"
+    }
+  ]
+}
